@@ -1,0 +1,2 @@
+1.change to cmd (folder name).
+2.initialise repository type git init.
